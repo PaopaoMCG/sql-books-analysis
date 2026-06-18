@@ -17,5 +17,3 @@ Identifiqué tendencias en popularidad y comportamiento de usuarios
 
 ## 🛠️ Tecnologías:
 SQL | Análisis exploratorio | Modelado relacional
-
-<img width="442" height="540" alt="image" src="https://github.com/user-attachments/assets/b73b79c1-baa6-44f1-b4a7-2c3f20672a84" />
